@@ -1,0 +1,6 @@
+[submodule "DistributionPackages/Breadlesscode.BlogExample"]
+	path = DistributionPackages/Breadlesscode.BlogExample
+	url = git@github.com:breadlesscode/neos-blog-example.git
+[submodule "DistributionPackages/Breadlesscode.Blog"]
+	path = DistributionPackages/Breadlesscode.Blog
+	url = git@github.com:breadlesscode/neos-blog.git
